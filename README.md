@@ -76,10 +76,10 @@ Also, visit us on our [website](https://cedalo.com/) or check out the [Streamshe
 
 ## Table of contents
 
--   [Quick start](#quick-start)
--   [Documentation](#documentation)
--   [FAQ](#faq)
--   [License](#license)
+🚀   [Quick start](#quick-start)
+📚   [Documentation](#documentation)
+🙋   [FAQ](#faq)
+📃   [License](#license)
 
 ## 🚀 Quick start
 
