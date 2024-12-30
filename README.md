@@ -64,7 +64,7 @@ The Streamsheet® core is an open-source tool for making your data immediately u
   <img src="assets/title.png">
 </p>
 
-If you are new to Streamsheets, you should start with the [introduction guide](https://docs.cedalo.com/introduction.html) or with the following video:
+If you are new to Streamsheets, you should start with the [introduction guide](https://docs.cedalo.com/streamsheets/introduction/) or with the following video:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fNJcIVSneH4
