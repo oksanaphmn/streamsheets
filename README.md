@@ -74,14 +74,14 @@ alt="Streamsheets" /></a>
 
 Also, visit us on our [website](https://cedalo.com/) or check out the [Streamsheets forum](https://forum.cedalo.com/).
 
-## Table of contents
+# Table of contents
 
 -   [Quick start](#quick-start)
 -   [Documentation](#documentation)
 -   [FAQ](#faq)
 -   [License](#license)
 
-## 🚀 Quick start
+# 🚀 Quick start
 
 The easiest way to install Streamsheets is to use the [official installer](https://docs.cedalo.com/streamsheets/installation/). After successfully running the installer navigate to the install directory and run the start script (depending on the target platform).
 
@@ -109,7 +109,7 @@ cd <PATH>
 sh start.sh
 ```
 
-## 📚 Documentation
+# 📚 Documentation
 
 You can find the Streamsheet documentation on the [documentation website](https://docs.cedalo.com/).
 
@@ -124,7 +124,7 @@ The documentation is divided into several sections:
 * [Tutorials](https://docs.cedalo.com/streamsheets/tutorials/tut-general/)
 * [Glossary](https://docs.cedalo.com/streamsheets/glossary)
 
-## 🙋 FAQ
+# 🙋 FAQ
 
 ### Who maintains Streamsheets?
 
@@ -157,7 +157,7 @@ The Streamsheets repository is organized as a mono repository that is composed o
 
 Give a ⭐️ if this project helped you!
 
-## 📃 License
+# 📃 License
 
 Copyright (c) 2017-2021 Cedalo AG.
 
